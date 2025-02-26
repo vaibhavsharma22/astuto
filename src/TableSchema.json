@@ -1,0 +1,9 @@
+[
+      { "key": "avatar", "label": "Profile", "type": "image" },
+      { "key": "name", "label": "Name", "type": "text", "sortable": "true" },
+      { "key": "status", "label": "Status", "type": "badge" },
+      { "key": "role", "label": "Role", "type": "text" },
+      { "key": "email", "label": "Email", "type": "text" },
+      { "key": "teams", "label": "Teams", "type": "tags" },
+      {"key":"age", "label":"Age", "type": "text"}
+]

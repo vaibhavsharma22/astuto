@@ -1,0 +1,153 @@
+[
+    {
+      "id": "1",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "name": "John Doe",
+      "age": 32,
+      "status": "Working",
+      "role": "Product Manager",
+      "email": "johndoe@company.com",
+      "teams": ["Design", "Product", "Development"]
+    },
+    {
+      "id": "2",
+      "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+      "name": "Jane Smith",
+      "age": 28,
+      "status": "On Leave",
+      "role": "UX Designer",
+      "email": "janesmith@company.com",
+      "teams": ["Design", "Research"]
+    },
+    {
+      "id": "3",
+      "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+      "name": "Robert Brown",
+      "age": 35,
+      "status": "Working",
+      "role": "Software Engineer",
+      "email": "robertbrown@company.com",
+      "teams": ["Development", "Backend"]
+    },
+    {
+      "id": "4",
+      "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+      "name": "Emily Johnson",
+      "age": 29,
+      "status": "Remote",
+      "role": "Marketing Lead",
+      "email": "emilyjohnson@company.com",
+      "teams": ["Marketing", "Growth"]
+    },
+    {
+      "id": "5",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+      "name": "Michael Lee",
+      "age": 40,
+      "status": "Working",
+      "role": "Data Scientist",
+      "email": "michaellee@company.com",
+      "teams": ["AI", "Analytics"]
+    },
+    {
+      "id": "6",
+      "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+      "name": "Sophia Martinez",
+      "age": 31,
+      "status": "On Leave",
+      "role": "HR Manager",
+      "email": "sophiamartinez@company.com",
+      "teams": ["HR", "People"]
+    },
+    {
+      "id": "7",
+      "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+      "name": "David Wilson",
+      "age": 37,
+      "status": "Working",
+      "role": "DevOps Engineer",
+      "email": "davidwilson@company.com",
+      "teams": ["Infrastructure", "Cloud"]
+    },
+    {
+      "id": "8",
+      "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+      "name": "Olivia Taylor",
+      "age": 26,
+      "status": "Remote",
+      "role": "Content Strategist",
+      "email": "oliviataylor@company.com",
+      "teams": ["Content", "Marketing"]
+    },
+    {
+      "id": "9",
+      "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+      "name": "Daniel Anderson",
+      "age": 34,
+      "status": "Working",
+      "role": "Frontend Developer",
+      "email": "danielanderson@company.com",
+      "teams": ["Development", "UI"]
+    },
+    {
+      "id": "10",
+      "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+      "name": "Emma Thomas",
+      "age": 30,
+      "status": "On Leave",
+      "role": "Customer Support",
+      "email": "emmathomas@company.com",
+      "teams": ["Support", "Operations"]
+    },
+    {
+      "id": "11",
+      "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
+      "name": "William Harris",
+      "age": 38,
+      "status": "Working",
+      "role": "Cybersecurity Analyst",
+      "email": "williamharris@company.com",
+      "teams": ["Security", "IT", "AWS", "Azure", "DSA"]
+    },
+    {
+      "id": "12",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "name": "Isabella Scott",
+      "age": 33,
+      "status": "Remote",
+      "role": "Project Manager",
+      "email": "isabellascott@company.com",
+      "teams": ["Management", "Operations"]
+    },
+    {
+      "id": "13",
+      "avatar": "https://randomuser.me/api/portraits/men/13.jpg",
+      "name": "James Carter",
+      "age": 29,
+      "status": "Working",
+      "role": "QA Engineer",
+      "email": "jamescarter@company.com",
+      "teams": ["Quality Assurance", "Testing"]
+    },
+    {
+      "id": "14",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "name": "Mia Robinson",
+      "age": 27,
+      "status": "On Leave",
+      "role": "Sales Executive",
+      "email": "miarobinson@company.com",
+      "teams": ["Sales", "Business"]
+    },
+    {
+      "id": "15",
+      "avatar": "https://randomuser.me/api/portraits/men/15.jpg",
+      "name": "Alexander Walker",
+      "age": 36,
+      "status": "Working",
+      "role": "AI Engineer",
+      "email": "alexanderwalker@company.com",
+      "teams": ["AI", "Machine Learning"]
+    }
+  ]
+  
